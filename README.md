@@ -41,11 +41,12 @@
    Der Score erhöht sich mit jeder Frucht die von der Schlange gegessen wurde um 5.
 
 Tastaturbelegung:
-          Menü: W = Cursor nach Oben
-                S = Cursor nach Unten
-                A = Cursor nach Links
-                D = Cursor nach Rechts
-                Enter = Auswahl bestätigen
+
+            Menü: W = Cursor nach Oben
+                  S = Cursor nach Unten
+                  A = Cursor nach Links
+                  D = Cursor nach Rechts
+                  Enter = Auswahl bestätigen
           
           Ingame: W = Schlange bewegt sich nach Oben
                   S = Schlange bewegt sich nach Unten
@@ -55,7 +56,7 @@ Tastaturbelegung:
                   Space = Pausiert das Spiel
                   esc = Moglichkeit das spiel zu verlassen, man kommt zurück ins Hauptmenue
 
-Benutzte Literatur, Links)
+Benutzte Literatur, Links:
 
           Q0: Wissen und Grundlegende Informationen aus der NCurses Video-Tutorial reihe:
               http://schorsch.efi.fh-nuernberg.de/roettger/index.php/NCurses/NCurses-Tutorial
@@ -79,7 +80,7 @@ Benutzte Literatur, Links)
           Q6: save.wav exit.wav:
               https://www.sounds-resource.com/game_boy_gbc/pokemonredblueyellow/sound/17241/
 
-Bekannte Bugs)
+Bekannte Bugs:
           1. Sollten Ingame 2 Tastatur eingaben zu schnell aufeinender folgen, kann es Passieren das die 
              Schlange Stirbt ohne tatsächlich kontakt mit einem Body Element gehabt zu haben.
           2. Das spiel läuft aktuell auf 40fps, und wurde auf einem leistungsstarken pc entwikelt, bei tests

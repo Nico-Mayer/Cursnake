@@ -87,3 +87,5 @@ Bekannte Bugs:
              auf schwächeren Systemen Zuckt das Terminal Ingame.
           3. Frucht kann momentan noch in der Schlange Spwanen.
           
+![alt text](https://s12.directupload.net/images/201109/wobwbvsx.jpg)
+![alt text](https://s12.directupload.net/images/201109/g93cu8ux.jpg)
